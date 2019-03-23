@@ -1,0 +1,26 @@
+{
+  "name": "bitcore-wallet-client-sparks",
+  "main": "index.js",
+  "version": "2.1.1",
+  "homepage": "https://github.com/sparkspay/bitcore-wallet-client-sparks",
+  "authors": ["BitPay Inc"],
+  "description": "Client for bitcore-wallet-service-sparks",
+  "keywords": [
+    "sparks",
+    "copay-sparks",
+    "multisig",
+    "wallet",
+    "client",
+    "bitcore-sparks"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile"
+  ]
+}
