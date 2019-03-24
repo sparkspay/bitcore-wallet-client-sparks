@@ -49,7 +49,7 @@
       "uglify-to-browserify": "^2.1.0"
     },
     "devDependencies": {
-      "bitcore-wallet-service-sparks": "git+https://github.com/sparkspay/bitcore-wallet-service-sparks.git#master",
+      "bitcore-wallet-service-sparks": "git+https://github.com/sparkspay/bitcore-wallet-service-sparks.git#development",
       "browserify": "^13.1.0",
       "chai": "^1.9.1",
       "coveralls": "^3.0.2",
