@@ -32,7 +32,7 @@
     "dependencies": {
       "bitcore-mnemonic-sparks": "git+https://github.com/sparkspay/bitcore-mnemonic-sparks.git#master",
       "bitcore-payment-protocol-sparks": "git+https://github.com/sparkspay/bitcore-payment-protocol-sparks.git#master",
-      "bitcore-lib-sparks": "git+https://github.com/sparkspay/bitcore-lib-sparks.git#master",
+      "bitcore-lib-sparks": "git+https://github.com/sparkspay/bitcore-lib-sparks.git#0.17.0",
       "async": "^0.9.0",
       "bip38": "^1.3.0",
       "bitcore-lib-cash": "^8.0.0",
